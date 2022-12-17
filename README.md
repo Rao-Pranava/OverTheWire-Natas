@@ -9,7 +9,7 @@ Check out this amazing [OverTheWire Natas wargame](https://overthewire.org/warga
 git clone https://github.com/Rao-Pranava/OverTheWire-Natas.git
 ```
 
-Make sure you have Python in your workstation installed
+Make sure you have Python installed in your workstation
 
 2. Browse to the `Python-Code` folder and run Python with the file name.
 ```
