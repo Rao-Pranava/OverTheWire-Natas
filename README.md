@@ -1,8 +1,10 @@
 # OverTheWire-Natas
 Python Code to find the Flag of each level of Natas
 
-Make sure you have Python in your workstation installed
 Check out this amazing [OverTheWire Natas wargame](https://overthewire.org/wargames/natas)
+
+Make sure you have Python in your workstation installed
+
 
 # Usage of this Code
 1. Clone this Repository.
